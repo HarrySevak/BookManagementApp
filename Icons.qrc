@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version = "1.0">
+<qresource>
+<file>icons/Books.png</file>
+<file>icons/Daytoday.png</file>
+<file>icons/Theme.png</file>
+<file>icons/Setting.png</file>
+<file>icons/User.png</file>
+</qresource>
+</RCC>
